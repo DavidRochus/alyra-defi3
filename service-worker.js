@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/alyra-defi3/precache-manifest.5db26fadb41e364c787971c71db1d504.js"
+  "/alyra-defi3/precache-manifest.37598ecf94fe4d635fea22705b46cd07.js"
 );
 
 self.addEventListener('message', (event) => {
