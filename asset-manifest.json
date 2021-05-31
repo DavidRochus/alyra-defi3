@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/alyra-defi3/static/css/main.a3487775.chunk.css",
-    "main.js": "/alyra-defi3/static/js/main.b1cf276f.chunk.js",
-    "main.js.map": "/alyra-defi3/static/js/main.b1cf276f.chunk.js.map",
-    "runtime-main.js": "/alyra-defi3/static/js/runtime-main.4d84b9a5.js",
-    "runtime-main.js.map": "/alyra-defi3/static/js/runtime-main.4d84b9a5.js.map",
-    "static/css/2.54c80412.chunk.css": "/alyra-defi3/static/css/2.54c80412.chunk.css",
-    "static/js/2.32f9f716.chunk.js": "/alyra-defi3/static/js/2.32f9f716.chunk.js",
-    "static/js/2.32f9f716.chunk.js.map": "/alyra-defi3/static/js/2.32f9f716.chunk.js.map",
+    "main.css": "/alyra-defi3/static/css/main.b100e6da.chunk.css",
+    "main.js": "/alyra-defi3/static/js/main.1029ebc5.chunk.js",
+    "main.js.map": "/alyra-defi3/static/js/main.1029ebc5.chunk.js.map",
+    "runtime-main.js": "/alyra-defi3/static/js/runtime-main.8a17f591.js",
+    "runtime-main.js.map": "/alyra-defi3/static/js/runtime-main.8a17f591.js.map",
+    "static/css/2.d687d305.chunk.css": "/alyra-defi3/static/css/2.d687d305.chunk.css",
+    "static/js/2.9b9def4a.chunk.js": "/alyra-defi3/static/js/2.9b9def4a.chunk.js",
+    "static/js/2.9b9def4a.chunk.js.map": "/alyra-defi3/static/js/2.9b9def4a.chunk.js.map",
     "index.html": "/alyra-defi3/index.html",
-    "precache-manifest.87ead96f7f16eba126315e392161490f.js": "/alyra-defi3/precache-manifest.87ead96f7f16eba126315e392161490f.js",
+    "precache-manifest.149623d4b03f7c5530b0ed8d58dabf57.js": "/alyra-defi3/precache-manifest.149623d4b03f7c5530b0ed8d58dabf57.js",
     "service-worker.js": "/alyra-defi3/service-worker.js",
-    "static/css/2.54c80412.chunk.css.map": "/alyra-defi3/static/css/2.54c80412.chunk.css.map",
-    "static/css/main.a3487775.chunk.css.map": "/alyra-defi3/static/css/main.a3487775.chunk.css.map"
+    "static/css/2.d687d305.chunk.css.map": "/alyra-defi3/static/css/2.d687d305.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/alyra-defi3/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d84b9a5.js",
-    "static/css/2.54c80412.chunk.css",
-    "static/js/2.32f9f716.chunk.js",
-    "static/css/main.a3487775.chunk.css",
-    "static/js/main.b1cf276f.chunk.js"
+    "static/js/runtime-main.8a17f591.js",
+    "static/css/2.d687d305.chunk.css",
+    "static/js/2.9b9def4a.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.1029ebc5.chunk.js"
   ]
 }
